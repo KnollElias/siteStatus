@@ -8,6 +8,8 @@ const urls = [
   "https://barbershopsherifi.ch",
   "https://erhardtphilipp.ch",
   "https://knollbackend1.ch/system",
+  "https://kitaluna.knollelias.ch/",
+  "https://ferienplausch.peaksolution.ch",
 ];
 
 urls.forEach((url) => {
